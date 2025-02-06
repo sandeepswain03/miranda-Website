@@ -1,12 +1,6 @@
+![image_alt](https://github.com/sandeepswain03/miranda-Website/blob/99ff72c5b7ddb306ccfaf72d850e8f0d9d9d530d/miranda.png)
+
 # Miranda
-
-A brief description or overview of what the website is about.
-[
-
-<!-- Uploading "Screenshot 2025-02-06 131656.png"... -->
-
-](url)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
