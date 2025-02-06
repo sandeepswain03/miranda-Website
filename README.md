@@ -1,6 +1,11 @@
 # Miranda
 
 A brief description or overview of what the website is about.
+[
+
+<!-- Uploading "Screenshot 2025-02-06 131656.png"... -->
+
+](url)
 
 ## Table of Contents
 
